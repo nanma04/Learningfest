@@ -1,0 +1,20 @@
+#main {
+    display: flex;
+    flex-direction: column;
+    width:auto;
+    margin: 10px;
+}
+.box>div {
+    border: 5px solid gray;
+    margin: 10px;
+    width: 250px;
+    height: 175px;
+}
+#first ,#second, #third, #fourth {
+    display: flex;
+    justify-content: space-around;
+}
+#second, #third {
+    justify-content: space-between;
+    margin: 38px;
+}

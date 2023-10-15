@@ -1,0 +1,8 @@
+#text {
+    height: 55px;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    text-align:center;
+    margin:auto;
+    color:grey;
+    font-size:40px;font-weight:bold
+  }

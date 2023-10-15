@@ -1,0 +1,15 @@
+div.outer{
+    margin-left: 50%;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
+div.inner{
+    width: 100px;
+    height: 100px;
+    margin:  auto;
+    background-color: green;
+}
